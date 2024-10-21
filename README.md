@@ -84,3 +84,9 @@ If you encounter an interesting or qualitative resource, or something of which y
 * [toolkit] [brainflow](https://brainflow.org/), a library with support for multiple programming languages to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
 * TODO: links to documentation for headset use, placement, maintenance and SDKs/interfacing
 
+## Machine learning
+* [video,*] [StatQuest machine learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) concepts and techniques videos
+* [video] [3blue1brown neural network videos](https://www.3blue1brown.com/topics/neural-networks)
+* [video] [3blue1brown linear algebra videos](https://www.3blue1brown.com/topics/linear-algebra)
+* [toolkit] [Scikit-learn], a python library implementing machine learning models and evaluation pipelines
+
