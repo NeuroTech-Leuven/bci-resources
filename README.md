@@ -88,5 +88,5 @@ If you encounter an interesting or qualitative resource, or something of which y
 * [video,*] [StatQuest machine learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) concepts and techniques videos
 * [video] [3blue1brown neural network videos](https://www.3blue1brown.com/topics/neural-networks)
 * [video] [3blue1brown linear algebra videos](https://www.3blue1brown.com/topics/linear-algebra)
-* [toolkit] [Scikit-learn], a python library implementing machine learning models and evaluation pipelines
+* [toolkit] [Scikit-learn](https://scikit-learn.org/stable/index.html), a python library implementing machine learning models and evaluation pipelines
 
