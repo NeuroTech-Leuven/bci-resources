@@ -25,6 +25,7 @@ If you encounter an interesting or qualitative resource, or something of which y
 ## Signal processing
 
 * [book] [Cohen, M. X. Analyzing neural time series data: theory and practice. MIT press, 2014.](https://doi.org/10.7551/mitpress/9609.001.0001) (through KU Leuven LIMO for access)
+* [paper] [de Cheveigné, Alain, and Israel Nelken. "Filters: when, why, and how (not) to use them." Neuron 102.2 (2019): 280-293.](https://www.cell.com/action/showPdf?pii=S0896-6273%2819%2930174-6)
 * [video,*]  Analyzing Neural Time Series by Mike X Cohen
   
   https://www.youtube.com/playlist?list=PLn0OLiymPak0t1moK3sn4Sl1seXlEOPHT
