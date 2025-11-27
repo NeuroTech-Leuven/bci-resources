@@ -64,6 +64,7 @@ If you encounter an interesting or qualitative resource, or something of which y
 * [tutorial] [OpenVibe tutorials](https://openvibe.inria.fr/documentation-index/) some plug-and-play examples of working, on-line BCIs to get started
 * [toolkit] [timeflux](https://timeflux.io/), an alternative framework for the acquisition and real-time processing of biosignals (text-based interface)
 * [toolkit] [brainflow](https://brainflow.org/), a library with support for multiple programming languages to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
+* https://medusabci.com/
 
 ## Datasets
 
