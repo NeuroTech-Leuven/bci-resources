@@ -55,10 +55,14 @@ If you encounter an interesting or qualitative resource, or something of which y
 ## On-line BCI
 
 * [toolkit,*] [Lab Streaming Layer (lsl)](https://labstreaminglayer.org/#/), a middleware ecosystem to stream, receive, synchronize, and record neural, physiological, and behavioral data streams acquired from diverse sensor hardware
-* [toolkit] [pyLSL](https://github.com/labstreaminglayer/pylsl), a python library to interface with lsl
+  Related tools:
+  -  [toolkit] [pyLSL](https://github.com/labstreaminglayer/pylsl), a python library to interface with lsl
+  -  https://mne.tools/mne-lsl/stable/index.html
+  -  https://github.com/intheon/stream_viewer
+  -  https://github.com/labstreaminglayer/App-LabRecorder
 * [toolkit,*] [OpenVibe](https://openvibe.inria.fr/), a software platform with graphical user interface dedicated to designing, testing and using brain-computer interfaces
 * [tutorial] [OpenVibe tutorials](https://openvibe.inria.fr/documentation-index/) some plug-and-play examples of working, on-line BCIs to get started
-* [toolkit] [timeflux](https://timeflux.io/), a framework for the acquisition and real-time processing of biosignals (text-based interface)
+* [toolkit] [timeflux](https://timeflux.io/), an alternative framework for the acquisition and real-time processing of biosignals (text-based interface)
 
 ## Datasets
 
