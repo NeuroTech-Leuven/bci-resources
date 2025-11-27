@@ -52,7 +52,7 @@ If you encounter an interesting or qualitative resource, or something of which y
 * [toolkit] [pyRiemann](https://pyriemann.readthedocs.io/en/latest/) contains python implementations of Riemannian Geometry-based BCI decoders ant utilities.
 * [toolkit,*] [MOABB](https://moabb.neurotechx.com/docs/). Next to an interface for publicly available BCI benchmark datasets, it also contains implementations of preprocessing pipelines and decoders.
 
-## On-line BCI
+## On-line BCI and data streaming
 
 * [toolkit,*] [Lab Streaming Layer (lsl)](https://labstreaminglayer.org/#/), a middleware ecosystem to stream, receive, synchronize, and record neural, physiological, and behavioral data streams acquired from diverse sensor hardware
   Related tools:
@@ -63,6 +63,7 @@ If you encounter an interesting or qualitative resource, or something of which y
 * [toolkit,*] [OpenVibe](https://openvibe.inria.fr/), a software platform with graphical user interface dedicated to designing, testing and using brain-computer interfaces
 * [tutorial] [OpenVibe tutorials](https://openvibe.inria.fr/documentation-index/) some plug-and-play examples of working, on-line BCIs to get started
 * [toolkit] [timeflux](https://timeflux.io/), an alternative framework for the acquisition and real-time processing of biosignals (text-based interface)
+* [toolkit] [brainflow](https://brainflow.org/), a library with support for multiple programming languages to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
 
 ## Datasets
 
@@ -86,7 +87,6 @@ If you encounter an interesting or qualitative resource, or something of which y
 
 ## Hardware
 
-* [toolkit] [brainflow](https://brainflow.org/), a library with support for multiple programming languages to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors
 * TODO: links to documentation for headset use, placement, maintenance and SDKs/interfacing
 
 ## Machine learning
